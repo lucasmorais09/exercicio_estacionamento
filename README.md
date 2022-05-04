@@ -5,7 +5,7 @@ Identifica se usuário pode estacionar na vaga preferencial.
 
 Início 
 	
-  Se Você é um(a) idoso(a) ou uma gestante ou possui alguma deficiência ? Então
+  	Se Você é um(a) idoso(a) ou uma gestante ou possui alguma deficiência ? Então
 		Você pode estacionar na vaga!
 	Se não você não pode estacionar na vaga!
   
